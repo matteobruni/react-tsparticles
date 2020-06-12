@@ -1,3 +1,9 @@
+# This Repository is no longer maintained
+
+This repository is now part of **https://github.com/matteobruni/tsparticles**
+
+---
+
 ## tsParticles - React Component ![Node.js CI](https://github.com/matteobruni/react-tsparticles/workflows/Node.js%20CI/badge.svg)
 
 tsParticles React component, using [tsParticles](https://github.com/matteobruni/tsparticles).
