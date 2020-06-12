@@ -1,6 +1,6 @@
-# This Repository is no longer maintained
+# This Repository has been moved!
 
-This repository is now part of **https://github.com/matteobruni/tsparticles**
+This repository is now part of **https://github.com/matteobruni/tsparticles**, this repository will be archived because it's included in the main package **tsParticles**
 
 ---
 
